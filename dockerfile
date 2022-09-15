@@ -1,6 +1,6 @@
 FROM node:18-alpine3.16 AS base
 
-WORKDIR /keyboards
+WORKDIR /keyboard-tracker
 
 COPY package.json ./
 
