@@ -1,2 +1,4 @@
 **/node_modules
 exec_notes.txt
+credentials.json
+.vscode
